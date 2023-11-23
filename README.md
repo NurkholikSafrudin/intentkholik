@@ -1,7 +1,7 @@
 # intentkholik
-Nama : Silvi Fara Dita
+Nama : nurkholik safrudin
 
-NIM : 312210498
+NIM : 312210507
 
 Kelas : TI.22.A5
 
